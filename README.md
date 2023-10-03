@@ -5,7 +5,7 @@ This study aims to create a comprehensive benchmark for the evaluation of deep l
 This repository contains the code and resources for the ARVO abstract for the project described above, from OPHAI Lab (supervised by Dr. Mohammad Eslami, Dr. Saber Kazeminasab, and Dr. Tobias Elze). Instructions for reproducing results and using this repository are below. All files for training, evaluating, and plotting are located in the parent directory. The code for all models we used are in `/models`. 
 
 <img
-  src="Perturbation.png"
+  src="Perturbation (1).png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 150px">
