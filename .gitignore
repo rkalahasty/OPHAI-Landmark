@@ -1,0 +1,11 @@
+/main
+/gettingResults
+/unet-models
+/predictions
+/gettingResults
+/detectron2
+/__pycache__
+/results
+models_vit.py
+scheduler.py
+RETFound_cfp_weights.h5
